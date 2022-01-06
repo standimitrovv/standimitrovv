@@ -1,6 +1,6 @@
 ## Hey there! I'm Stan 👨‍💻
 
-Currently a second year college student at the Technical University of Sofia. Junior Web Developer 💻 and a Hybrid Athlete 🏃‍♂💪 
+Currently a second year college student at the Technical University of Sofia. Intern/Junior Web Developer 💻 and a Hybrid Athlete 🏃‍♂💪 
 
 The tools I'm using 🛠
 
