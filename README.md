@@ -10,7 +10,7 @@ The tools I'm using 🛠
 ![](https://img.shields.io/badge/CSS-TailwindCSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=9cf)
 ![](https://img.shields.io/badge/CSS-MUI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>]
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 
 
 
