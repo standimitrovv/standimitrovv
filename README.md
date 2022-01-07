@@ -19,6 +19,7 @@ Currently a second year college student at the Technical University of Sofia. In
 
 ## Connect with me
 
+<a href="https://standimitrov.vercel.app/" target="_blank">Portfolio</a>
 - [Portfolio](https://standimitrov.vercel.app/){:target="_blank"}
 
 - [Instagram](https://www.instagram.com/st.dimitrovv/){:target="_blank"}
