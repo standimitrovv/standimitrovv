@@ -2,7 +2,7 @@
 
 Currently a second year college student at the Technical University of Sofia. Intern/Junior Web Developer 💻 and a Hybrid Athlete 🏃‍♂💪 
 
-The tools I'm using 🛠
+## The tools I'm using 🛠
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
