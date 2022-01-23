@@ -15,9 +15,8 @@ Currently a second year college student at the Technical University of Sofia. <b
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
 
-
-
-
+<br/>
+<br/>
 
 ## Connect with me
 
