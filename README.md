@@ -18,8 +18,8 @@ Currently a second year college student at the Technical University of Sofia. <b
 <img align="left" alt="Express.js" width="40px" height="30px" src="https://www.resourcifi.com/wp-content/themes/resourcifi-child/img/express-min.png"/>
 <img align="left" alt="MongoDB" width="30px" src="https://g.foolcdn.com/art/companylogos/square/mdb.png"/>
 
-<hr/>
 <br/>
+<hr/>
 <br/>
 
 ## Connect with me
