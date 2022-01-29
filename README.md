@@ -19,7 +19,7 @@ Currently a second year college student at the Technical University of Sofia. <b
 <img align="left" alt="MongoDB" width="30px" src="https://g.foolcdn.com/art/companylogos/square/mdb.png"/>
 
 <br/>
-<hr/>
+<br/>
 <br/>
 
 ## Connect with me
