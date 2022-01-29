@@ -16,7 +16,7 @@ Currently a second year college student at the Technical University of Sofia. <b
 <img align="left" alt="GitHub" width="30px" src="https://www.kindpng.com/picc/m/255-2558173_github-logo-png-transparent-png.png" />
 <img align="left" alt="Node.js" width="30px" src="https://media.istockphoto.com/vectors/nodejs-vector-logo-backend-programming-in-javascript-server-vector-id1195857274?k=20&m=1195857274&s=170667a&w=0&h=k8oHsv3ehrvhviozLlvhEjGHweiHU7hbBv7bHEkgUqc="/>
 <img align="left" alt="Express.js" width="40px" height="30px" src="https://www.resourcifi.com/wp-content/themes/resourcifi-child/img/express-min.png"/>
-<img align="left" alt="MongoDB" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKwTptG2fcxUHseXwhwHKcCSJRky8cR_BVazbBmhp675qwhU-1kNnymYwUhkytgBatgLo&usqp=CAU"/>
+<img align="left" alt="MongoDB" width="40px" src="https://toppng.com/uploads/preview/mongodb-logo-11609369386lqoc6r2ga9.png"/>
 
 <br/>
 <br/>
