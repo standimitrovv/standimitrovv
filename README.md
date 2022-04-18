@@ -14,7 +14,7 @@ Currently a second year college student at the Technical University of Sofia. <b
 <img align="left" alt="Material UI" width="30px" src="https://v4.mui.com/static/logo.png"/>
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://www.kindpng.com/picc/m/255-2558173_github-logo-png-transparent-png.png" />
-<img align="left" alt="Node.js" width="30px" src="https://media.istockphoto.com/vectors/nodejs-vector-logo-backend-programming-in-javascript-server-vector-id1195857274?k=20&m=1195857274&s=170667a&w=0&h=k8oHsv3ehrvhviozLlvhEjGHweiHU7hbBv7bHEkgUqc="/>
+<img align="left" alt="Node.js" width="30px" src="https://preview.redd.it/oxtub3jii6281.png?width=416&format=png&auto=webp&s=85b9b173f2cbcdc99c96d37dd85dda54cabe6e39"/>
 <img align="left" alt="Express.js" width="40px" height="30px" src="https://www.resourcifi.com/wp-content/themes/resourcifi-child/img/express-min.png"/>
 <img align="left" style="margin-bottom:20px"alt="MongoDB" width="30px" src="https://g.foolcdn.com/art/companylogos/square/mdb.png"/>
 
