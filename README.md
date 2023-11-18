@@ -1,6 +1,6 @@
-## Hey there! I'm Stan 👨‍💻
+## Hey there 👋, I'm Stan 👨‍💻
 
-Currently a second year college student at the Technical University of Sofia. <br/> Junior Web Developer 💻 and a Hybrid Athlete 🏃‍♂💪 
+Web Developer 💻 by day, runner 🏃‍♂ by night  
 
 ## The tools I'm using 🛠
 
@@ -28,7 +28,7 @@ Currently a second year college student at the Technical University of Sofia. <b
 
 - [Portfolio](https://standimitrov.vercel.app/)
 
-- [Instagram](https://www.instagram.com/st.dimitrovv/)
+- [Instagram](https://www.instagram.com/stanimitrov/)
 
 - [Facebook](https://www.facebook.com/stanimir.dimitrov.5494)
 
