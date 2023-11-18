@@ -2,6 +2,8 @@
 
 Web Developer 💻 by day, runner 🏃‍♂ by night  
 
+<br/>
+
 ## The tools I'm using 🛠
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/> 
@@ -14,13 +16,11 @@ Web Developer 💻 by day, runner 🏃‍♂ by night
 <img align="left" alt="Material UI" width="30px" src="https://v4.mui.com/static/logo.png"/>
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://www.kindpng.com/picc/m/255-2558173_github-logo-png-transparent-png.png" />
-<img align="left" alt="Node.js" width="30px" src="https://preview.redd.it/oxtub3jii6281.png?width=416&format=png&auto=webp&s=85b9b173f2cbcdc99c96d37dd85dda54cabe6e39"/>
-<img align="left" alt="Express.js" width="40px" height="30px" src="https://www.resourcifi.com/wp-content/themes/resourcifi-child/img/express-min.png"/>
+<img align="left" alt="Node.js" width="30px" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png"/>
+<img align="left" alt="Express.js" width="40px" height="30px" src="https://user-images.githubusercontent.com/46530103/149555472-2e2ed369-9011-496e-9fe5-69facdf534e8.png"/>
 <img align="left" style="margin-bottom:20px" alt="MongoDB" width="30px" src="https://g.foolcdn.com/art/companylogos/square/mdb.png"/>
 <img align="left" style="margin-bottom:20px" alt="SQL" width="30px" src="https://c0.klipartz.com/pngpicture/170/924/gratis-png-base-de-datos-de-microsoft-sql-server-sql-microsoft-azure-sql-thumbnail.png"/>
 
-<br/>
-<br/>
 <br/>
 
 ## Connect with me
