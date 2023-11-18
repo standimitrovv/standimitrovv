@@ -2,6 +2,10 @@
 
 Web Developer 💻 by day, runner 🏃‍♂ by night  
 
+<br/>
+<br/>
+<br/>
+
 ## The tools I'm using 🛠
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/> 
@@ -9,7 +13,7 @@ Web Developer 💻 by day, runner 🏃‍♂ by night
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="TypeScript" width="30px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png"/>
-<img align="left" alt="Next.js" width="30px" src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x309-yynfidez.png"/>
+<img align="left" alt="Next.js" width="30px" src="https://miro.medium.com/v2/resize:fit:650/1*Hva7hcsFWulFUPhrEWui1A.jpeg"/>
 <img align="left" alt="Tailwind CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"/>
 <img align="left" alt="Material UI" width="30px" src="https://v4.mui.com/static/logo.png"/>
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -19,6 +23,8 @@ Web Developer 💻 by day, runner 🏃‍♂ by night
 <img align="left" style="margin-bottom:20px" alt="MongoDB" width="30px" src="https://g.foolcdn.com/art/companylogos/square/mdb.png"/>
 <img align="left" style="margin-bottom:20px" alt="SQL" width="30px" src="https://c0.klipartz.com/pngpicture/170/924/gratis-png-base-de-datos-de-microsoft-sql-server-sql-microsoft-azure-sql-thumbnail.png"/>
 
+<br/>
+<br/>
 <br/>
 
 ## Connect with me
