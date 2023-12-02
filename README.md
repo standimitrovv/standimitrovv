@@ -33,7 +33,3 @@ Web Developer 💻 by day, runner 🏃‍♂ by night
 - [Instagram](https://www.instagram.com/stanimitrov/)
 
 - [Facebook](https://www.facebook.com/stanimir.dimitrov.5494)
-
-- [Twitter](https://twitter.com/standimitrovv)
-
-
