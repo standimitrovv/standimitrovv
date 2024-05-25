@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm Stan 👨‍💻
 
-Web Developer 💻 by day, runner 🏃‍♂ by night  
+Software Developer 💻 by day, runner 🏃‍♂ by night  
 
 <br/>
 
