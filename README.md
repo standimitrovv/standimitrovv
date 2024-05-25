@@ -29,7 +29,3 @@ Web Developer 💻 by day, runner 🏃‍♂ by night
 
 
 - [Portfolio](https://standimitrov.vercel.app/)
-
-- [Instagram](https://www.instagram.com/stanimitrov/)
-
-- [Facebook](https://www.facebook.com/stanimir.dimitrov.5494)
